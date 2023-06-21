@@ -6,6 +6,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
+// это просто тренировка со статичными данными
 namespace WebApp.Controllers
 {
     [ApiController]
